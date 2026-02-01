@@ -15,8 +15,9 @@
 ## 🔧 Stacks 🔧
 <br />
 
-<div> 
+<div>
 <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
